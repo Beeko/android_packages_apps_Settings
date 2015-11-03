@@ -179,6 +179,7 @@ public class QSTileHolder {
             case QSConstants.TILE_KERNEL_ADIUTOR:
                 resourceName = "ic_qs_kernel_adiutor";
                 stringId = R.string.qs_tile_kernel_adiutor;
+                break;
             case QSConstants.TILE_BATTERY_SAVER:
                 resourceName = "ic_qs_battery_saver_on";
                 stringId = R.string.qs_tile_battery_saver;
